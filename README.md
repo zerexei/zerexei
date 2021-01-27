@@ -1,6 +1,4 @@
-### Hi there, I'm Angelo Arcillas 👋
-
- :octocat:
+### Hi there, I'm Angelo Arcillas 👋:octocat:
 
 **angeloarcillas/angeloarcillas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
