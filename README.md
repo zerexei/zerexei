@@ -8,9 +8,10 @@
 <br>
 
 :zap: **Fun fact**: _Computer programming would be the third most diverse languages, if it ever became a spoken language._
+<hr>
 
 > I am a **Back-end Web Developer and Cybersecurty expert**, I have been working as a freelance Tailwindcss, Alpine, Lvewire, Laravel developer for a year now. I have a Bachelor’s degree in Computer Science Major in Software Technology from western mindanao state university. I have great expertise in creating web applications using a variety of modern technologies. I am also very adequate in maintaining websites and mobile apps as I am an expert in HTML/CSS, Javascript, PHP, SQL, Web Security and System Administration. I always focus on producing high quality, Scalable, bug free ,Safe and Secure codes.
-
+<hr>
 
 - :telescope: I’m currently working on **Programming languages exercises tutorial.**
 - :seedling: I’m currently learning **Low-level programming language (c/c++).**
