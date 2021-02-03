@@ -1,7 +1,7 @@
 ### Hello there, I'm Angelo Arcillas 👋:octocat:
 
 <p align="center">
-<img src="https://octodex.github.com/images/nyantocat.gif" alt="drawing" width="350" height="200"/>
+  <img src="https://octodex.github.com/images/nyantocat.gif" alt="drawing" width="350" height="200"/>
 </p>
 
 - :muscle: **Qoute**: _What we call failure is really just that necessary struggle called learning._
@@ -14,8 +14,10 @@
   - twitter: https://twitter.com/enagolx64
   - mail: angeloarcillas512@gmail.com
   - link 3
-
-<img src="https://octodex.github.com/images/Fintechtocat.png" alt="drawing" width="300"/>
+  
+<p align="center">
+  <img src="https://octodex.github.com/images/Fintechtocat.png" alt="drawing" width="300"/>
+</p>
 
 <hr>
 
