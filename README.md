@@ -6,15 +6,13 @@
 
 - :muscle: **Qoute**: _What we call failure is really just that necessary struggle called learning._
 - :zap: **Fun fact**: _Computer programming would be the third most diverse languages, if it ever became a spoken language._
-- :telescope: I’m currently working on **Programming languages exercises tutorial.**
-- :seedling: I’m currently learning **Low-level programming language (c/c++).**
-
-- :two_men_holding_hands: I’m looking for help with **maintaining or helping with making Programming languages exercises tutorial**
-- :question: Ask me about **Programming & life** :wink:
+- :telescope: **I’m currently working**: _Programming languages exercises tutorial and improving my skills._
+- :two_men_holding_hands: **I’m looking for help with**: _maintaining or helping with making Programming language exercises tutorial._
+- :question: **Ask me about**: _Programming & life._ :wink:
 
 - :mailbox: How to reach me: 
-  - link 1
-  - link 2
+  - twitter: https://twitter.com/enagolx64
+  - mail: angeloarcillas512@gmail.com
   - link 3
 
 <img src="https://octodex.github.com/images/Fintechtocat.png" alt="drawing" width="300"/>
