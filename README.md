@@ -25,23 +25,28 @@
 <hr>
 
 # Skills
-Web Development
+Programming
  - HTML, CSS, JS, PHP, SQL
+ - Python, Rust
  - Laravel, Vuejs, Tailwind, GraphQL
- - Git, Linux, Vim, Design patterns
+ - Alpinejs, livewire
+ - Git, Design patterns
  - API Development
+ - npm, composer, cargo
  
 System Administration
  - Linux
  - Apache
+ - Nginx
  
 Cybersecurity
  - Web security
- - Network security
- - Penetration testing
+ - Web Network security
+ - Web Penetration testing
  
 Software, Network and Hardware troubleshooting
 
-Microsoft office and Creative suite
+office and Creative suite
+ - microsoft office (access, word, excel, etc)
  - Libre office, Free office
  - Photoshop, XD, Figma, Gimp
