@@ -28,20 +28,22 @@
 Programming
  - HTML, CSS, JS, PHP, SQL
  - Python, Rust
- - Laravel, Vuejs, Tailwind, GraphQL
+ - Laravel, Reactjs, Vuejs, Tailwind, GraphQL
  - Alpinejs, livewire
  - Git, Design patterns
- - API Development
  - npm, composer, cargo
+ - API & Package Development
+ - Data Structures & Algorithms
  
 System Administration
  - Linux
  - Apache
  - Nginx
+ - Nodejs
  
 Cybersecurity
  - Web security
- - Web Network security
+ - Network security
  - Web Penetration testing
  
 Software, Network and Hardware troubleshooting
