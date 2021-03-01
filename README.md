@@ -13,11 +13,6 @@ I am a <b>Back-end Web Developer and Cybersecurty expert</b>, I have a Bachelorâ
 </p>
 
 <br>
-  
-<p align="center">
-  <img src="https://octodex.github.com/images/Fintechtocat.png" alt="drawing" width="300"/>
-</p>
-
 
 - :muscle: **Qoute**: _What we call failure is really just that necessary struggle called learning._
 - :zap: **Fun fact**: _Computer programming would be the third most diverse languages, if it ever became a spoken language._
