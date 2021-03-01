@@ -1,8 +1,15 @@
 ### Hello there, I'm Angelo Arcillas 👋:octocat:
 
+
 <p align="center">
   <img src="https://octodex.github.com/images/nyantocat.gif" alt="drawing" width="350" height="200"/>
 </p>
+
+
+<hr>
+
+> I am a **Back-end Web Developer and Cybersecurty expert**, I have been working as a freelance Tailwindcss, Alpine, Lvewire, Laravel developer for a year now. I have a Bachelor’s degree in Computer Science Major in Software Technology from western mindanao state university. I have great expertise in creating web applications using a variety of modern technologies. I am also very adequate in maintaining websites and mobile apps as I am an expert in HTML/CSS, Javascript, PHP, SQL, Web Security and System Administration. I always focus on producing high quality, Scalable, bug free ,Safe and Secure codes.
+<hr>
 
 - :muscle: **Qoute**: _What we call failure is really just that necessary struggle called learning._
 - :zap: **Fun fact**: _Computer programming would be the third most diverse languages, if it ever became a spoken language._
@@ -19,10 +26,7 @@
   <img src="https://octodex.github.com/images/Fintechtocat.png" alt="drawing" width="300"/>
 </p>
 
-<hr>
 
-> I am a **Back-end Web Developer and Cybersecurty expert**, I have been working as a freelance Tailwindcss, Alpine, Lvewire, Laravel developer for a year now. I have a Bachelor’s degree in Computer Science Major in Software Technology from western mindanao state university. I have great expertise in creating web applications using a variety of modern technologies. I am also very adequate in maintaining websites and mobile apps as I am an expert in HTML/CSS, Javascript, PHP, SQL, Web Security and System Administration. I always focus on producing high quality, Scalable, bug free ,Safe and Secure codes.
-<hr>
 
 # Skills
 Programming
