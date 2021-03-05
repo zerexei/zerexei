@@ -1,4 +1,4 @@
-### Hello there, I'm Angelo Arcillas 👋:octocat:
+### Hello there 👋:octocat:
 
 
 
