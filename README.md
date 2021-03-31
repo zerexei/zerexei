@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-I am a <b>Back-end Web Developer and Cybersecurty expert</b>, I have a Bachelor’s degree in Computer Science Major in Software Technology from western mindanao state university. I have great expertise in creating web applications using a variety of modern technologies. I am also very adequate in maintaining websites and mobile apps as I am an expert in Web Development, Web Security and System Administration. I always focus on producing high quality, Scalable, bug free ,Safe and Secure codes.
+I am a <b>Web Developer</b> with some knowledge in System Administration and Cybersecurity, I have a Bachelor’s degree in Computer Science Major in Software Technology from western mindanao state university. I have great expertise in creating web applications using a variety of modern technologies. I am also very adequate in maintaining websites and mobile apps as I am an expert in Web Development, Web Security and System Administration. I always focus on producing high quality, Scalable, bug free ,Safe and Secure codes.
 </p>
 
 <hr>
