@@ -20,4 +20,6 @@ I am an aspiring web developer who loves back-end development 💪, I always pri
 - :two_men_holding_hands: **I’m looking for help with**: _Building fun stuffs._ 😄
 - :question: **Ask me about**: _Programming & life._ 😉
 
+<hr />
+
 <img src="https://www.codewars.com/users/angeloarcillas64/badges/large" alt="codewars badge" />
