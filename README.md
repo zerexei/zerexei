@@ -19,3 +19,5 @@ I am an aspiring web developer who loves back-end development 💪, I always pri
 - :telescope: **I’m currently working**: _in improving my skills and finding my soul._ 🥅
 - :two_men_holding_hands: **I’m looking for help with**: _Building fun stuffs._ 😄
 - :question: **Ask me about**: _Programming & life._ 😉
+
+<img src="https://www.codewars.com/users/angeloarcillas64/badges/large" alt="codewars badge" />
