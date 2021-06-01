@@ -1,3 +1,46 @@
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&theme=radical&hide_border=true&custom_title=Zerexei's+Github+stats)
+&emsp;&emsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerexei&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Hello there 👋:octocat:
 
 
@@ -22,6 +65,6 @@ I am an aspiring web developer who loves back-end development 💪, I always pri
 
 <hr />
 
-<img src="https://www.codewars.com/users/angeloarcillas64/badges/large" alt="codewars badge" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://www.codewars.com/users/angeloarcillas64/badges/large" alt="codewars badge" />
