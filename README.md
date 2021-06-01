@@ -23,3 +23,5 @@ I am an aspiring web developer who loves back-end development 💪, I always pri
 <hr />
 
 <img src="https://www.codewars.com/users/angeloarcillas64/badges/large" alt="codewars badge" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
