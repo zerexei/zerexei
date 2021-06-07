@@ -1,44 +1,4 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&theme=radical&hide_border=true&custom_title=Zerexei's+Github+stats)
-&emsp;&emsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerexei&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### Hello there 👋:octocat:
@@ -52,7 +12,7 @@
 <br>
 
 <p align="center">
-I am an aspiring web developer who loves back-end development 💪, I always prioritize best practices and security to ensure that I can produce a high quality and secure codebase for problem solutions 🥰 also I'm a nitpicker type of person 😏. I enjoy watching anime, playing pc games and football 😄
+I am an aspiring web developer from philippines 🇵🇭 who loves back-end development 💪, I always prioritize best practices and security to ensure that I can produce a high quality and secure codebase for problem solutions 🥰. I enjoy watching anime, playing pc games and PROGRAMMING 😄
 <p>
 
 <hr>
@@ -66,5 +26,15 @@ I am an aspiring web developer who loves back-end development 💪, I always pri
 <hr />
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&theme=radical&hide_border=true&custom_title=Zerexei's+Github+stats)
+&emsp;&emsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerexei&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
 
 <img src="https://www.codewars.com/users/angeloarcillas64/badges/large" alt="codewars badge" />
+
+## Connect
+[![Gmail](https://img.shields.io/badge/gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?extsrc=mailto&to=angeloarcillas64@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/zerexei)
+[![Discord](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/743835873287733249)
