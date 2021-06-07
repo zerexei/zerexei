@@ -44,13 +44,13 @@ I am an aspiring web developer from philippines 🇵🇭 who loves back-end deve
 [![React](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=black)](#)
 [![Express](https://img.shields.io/badge/express-fff?style=for-the-badge&logo=express&logoColor=black)](#)
 [![Tailwindcss](https://img.shields.io/badge/tailwindcss-06b6d4?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
-[![MySql](https://img.shields.io/badge/mysql-00748d?style=for-the-badge&logo=mysql&logoColor=orange)](#)
+[![MySql](https://img.shields.io/badge/mysql-00748d?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![Postgresql](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 
 ## Tools
-[![VS Code](https://img.shields.io/badge/vs%20code-161B22?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/linux-161B22?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![Firefox](https://img.shields.io/badge/firefox-161B22?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/vs%20code-22a7f2?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/linux-000?style=for-the-badge&logo=linux&logoColor=white)](#)
+[![Firefox](https://img.shields.io/badge/firefox-ffa40d?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 ## Connect
 [![Gmail](https://img.shields.io/badge/gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com?tf=cm&to=angeloarcillas64@gmail.com)
