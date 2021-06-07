@@ -46,11 +46,14 @@ I am an aspiring web developer 💻 from philippines 🇵🇭 who loves back-end
 [![Tailwindcss](https://img.shields.io/badge/tailwindcss-303133?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
 [![MySql](https://img.shields.io/badge/mysql-303133?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![Postgresql](https://img.shields.io/badge/postgresql-303133?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![Mongodb](https://img.shields.io/badge/mongodb-303133?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 
 ## Tools
+[![Git](https://img.shields.io/badge/git-303133?style=for-the-badge&logo=git&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/vs%20code-303133?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+[![Vim](https://img.shields.io/badge/vim-303133?style=for-the-badge&logo=vim&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/linux-303133?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![Firefox](https://img.shields.io/badge/firefox-303133?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Firefox](https://img.shields.io/badge/firefox-303133?style=for-the-badge&logo=firefox-browser&logoColor=white)](#)
 
 ## Connect
 [![Gmail](https://img.shields.io/badge/gmail-303133?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com?tf=cm&to=angeloarcillas64@gmail.com)
@@ -60,3 +63,4 @@ I am an aspiring web developer 💻 from philippines 🇵🇭 who loves back-end
 [![Notion](https://img.shields.io/badge/notion-303133?style=for-the-badge&logo=notion&logoColor=white)](www.notion.so/zerexei)
 [![Reddit](https://img.shields.io/badge/reddit-303133?style=for-the-badge&logo=reddit&logoColor=white)](https://github.com/zerexei)
 [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-303133?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://github.com/zerexei)
+[![CodeWars](https://img.shields.io/badge/codewars-303133?style=for-the-badge&logo=codewars&logoColor=white)](https://github.com/zerexei)
