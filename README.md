@@ -35,6 +35,6 @@ I am an aspiring web developer from philippines 🇵🇭 who loves back-end deve
 <img src="https://www.codewars.com/users/angeloarcillas64/badges/large" alt="codewars badge" />
 
 ## Connect
-[![Gmail](https://img.shields.io/badge/gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?extsrc=mailto&to=angeloarcillas64@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com?tf=cm&to=angeloarcillas64@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/zerexei)
 [![Discord](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/743835873287733249)
