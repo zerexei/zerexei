@@ -13,5 +13,5 @@ I am an aspiring web developer 💻 from philippines 🇵🇭 who loves back-end
 [![Github](https://img.shields.io/badge/github-4c4c4c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zerexei)
 [![Notion](https://img.shields.io/badge/notion-4c4c4c?style=for-the-badge&logo=notion&logoColor=white)](www.notion.so/zerexei)
 [![Reddit](https://img.shields.io/badge/reddit-4c4c4c?style=for-the-badge&logo=reddit&logoColor=white)](https://github.com/zerexei)
-[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-4c4c4c?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://github.com/zerexei)
-[![CodeWars](https://img.shields.io/badge/codewars-4c4c4c?style=for-the-badge&logo=codewars&logoColor=white)](https://github.com/zerexei)
+[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-4c4c4c?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackexchange.com/users/21726141/zerexei)
+[![CodeWars](https://img.shields.io/badge/codewars-4c4c4c?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/angeloarcillas64)
