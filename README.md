@@ -7,10 +7,10 @@ I am an aspiring web developer 💻 from philippines 🇵🇭 who loves back-end
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&icon_color=fec615&text_color=f1f1f1f1&bg_color=4c4c4c&title_color=fec615&hide_title=true&hide_border=true)
 
 ## Projects
-[![PHP Project](https://img.shields.io/badge/php_core-4c4c4c?style=for-the-badge&logo=php&logoColor=fff)](https://github.com/zerexei)
-[![PHP Project](https://img.shields.io/badge/php_router-4c4c4c?style=for-the-badge&logo=php&logoColor=fff)](https://github.com/zerexei)
-[![PHP Project](https://img.shields.io/badge/php_auth-4c4c4c?style=for-the-badge&logo=php&logoColor=fff)](https://github.com/zerexei)
-[![PHP Project](https://img.shields.io/badge/php_helper-4c4c4c?style=for-the-badge&logo=php&logoColor=fff)](https://github.com/zerexei)
+[![PHP Project](https://img.shields.io/badge/php_core-4c4c4c?style=for-the-badge&logo=php&logoColor=fff)](https://github.com/zerexei/php-core)
+[![PHP Project](https://img.shields.io/badge/php_router-4c4c4c?style=for-the-badge&logo=php&logoColor=fff)](https://github.com/zerexei/php-simple-router)
+[![PHP Project](https://img.shields.io/badge/php_auth-4c4c4c?style=for-the-badge&logo=php&logoColor=fff)](https://github.com/zerexei/php-auth)
+[![PHP Project](https://img.shields.io/badge/php_helper-4c4c4c?style=for-the-badge&logo=php&logoColor=fff)](https://github.com/zerexei/php-helper)
 [![Laravel Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=laravel&logoColor=fff)](https://github.com/zerexei)
 [![Laravel Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=laravel&logoColor=fff)](https://github.com/zerexei)
 [![JS Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=javascript&logoColor=fff)](https://github.com/zerexei)
