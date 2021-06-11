@@ -22,9 +22,9 @@ I am an aspiring web developer 💻 from philippines 🇵🇭 who loves back-end
 [![Node Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=ts-node&logoColor=fff)](https://github.com/zerexei)
 [![Rust Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=rust&logoColor=fff)](https://github.com/zerexei)
 [![Deno Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=deno&logoColor=fff)](https://github.com/zerexei)
-[![HTML Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=html5&logoColor=fff)](https://github.com/zerexei)
-[![CSS Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=css3&logoColor=fff)](https://github.com/zerexei/reet-css)
-[![Tailwind Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=tailwind-css&logoColor=fff)](https://github.com/zerexei)
+[![HTML Project](https://img.shields.io/badge/seo_template-4c4c4c?style=for-the-badge&logo=html5&logoColor=fff)](https://github.com/zerexei)
+[![CSS Project](https://img.shields.io/badge/3_page_site-4c4c4c?style=for-the-badge&logo=css3&logoColor=fff)](https://github.com/zerexei/reet-css)
+[![Tailwind Project](https://img.shields.io/badge/tailwind_components-4c4c4c?style=for-the-badge&logo=tailwind-css&logoColor=fff)](https://github.com/zerexei)
   
 
 ## Connect with Me
