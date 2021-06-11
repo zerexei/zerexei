@@ -23,7 +23,7 @@ I am an aspiring web developer 💻 from philippines 🇵🇭 who loves back-end
 [![Rust Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=rust&logoColor=fff)](https://github.com/zerexei)
 [![Deno Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=deno&logoColor=fff)](https://github.com/zerexei)
 [![HTML Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=html5&logoColor=fff)](https://github.com/zerexei)
-[![CSS Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=css3&logoColor=fff)](https://github.com/zerexei)
+[![CSS Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=css3&logoColor=fff)](https://github.com/zerexei/reet-css)
 [![Tailwind Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=tailwind-css&logoColor=fff)](https://github.com/zerexei)
   
 
