@@ -13,7 +13,7 @@ I am an aspiring web developer 💻 from philippines 🇵🇭 who loves back-end
 [![PHP Project](https://img.shields.io/badge/php_helper-4c4c4c?style=for-the-badge&logo=php&logoColor=fff)](https://github.com/zerexei/php-helper)
 [![Laravel Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=laravel&logoColor=fff)](https://github.com/zerexei)
 [![Laravel Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=laravel&logoColor=fff)](https://github.com/zerexei)
-[![JS Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=javascript&logoColor=fff)](https://github.com/zerexei)
+[![JS Project](https://img.shields.io/badge/js_tools-4c4c4c?style=for-the-badge&logo=javascript&logoColor=fff)](https://github.com/zerexei/js-tools)
 [![JS Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=javascript&logoColor=fff)](https://github.com/zerexei)
 [![React Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=react&logoColor=fff)](https://github.com/zerexei)
 [![React Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=react&logoColor=fff)](https://github.com/zerexei)
@@ -24,7 +24,7 @@ I am an aspiring web developer 💻 from philippines 🇵🇭 who loves back-end
 [![Deno Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=deno&logoColor=fff)](https://github.com/zerexei)
 [![HTML Project](https://img.shields.io/badge/seo_template-4c4c4c?style=for-the-badge&logo=html5&logoColor=fff)](https://github.com/zerexei/seo-template)
 [![CSS Project](https://img.shields.io/badge/3_page_site-4c4c4c?style=for-the-badge&logo=css3&logoColor=fff)](https://github.com/zerexei/reet-css)
-[![Tailwind Project](https://img.shields.io/badge/tailwind_components-4c4c4c?style=for-the-badge&logo=tailwind-css&logoColor=fff)](https://github.com/zerexei)
+[![Tailwind Project](https://img.shields.io/badge/tailwind_components-4c4c4c?style=for-the-badge&logo=tailwind-css&logoColor=fff)](https://github.com/zerexei/tailwindcss-components/)
   
 
 ## Connect with Me
