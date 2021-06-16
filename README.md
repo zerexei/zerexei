@@ -19,7 +19,7 @@ I am an aspiring web developer 💻 from philippines 🇵🇭 who loves back-end
 [![React Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=react&logoColor=fff)](https://github.com/zerexei)
 [![React Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=react&logoColor=fff)](https://github.com/zerexei)
 [![Node Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=ts-node&logoColor=fff)](https://github.com/zerexei)
-[![Node Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=ts-node&logoColor=fff)](https://github.com/zerexei)
+[![Node Project](https://img.shields.io/badge/express-prisma-4c4c4c?style=for-the-badge&logo=ts-node&logoColor=fff)](https://github.com/zerexei/crud-prisma)
 [![Rust Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=rust&logoColor=fff)](https://github.com/zerexei)
 [![Deno Project](https://img.shields.io/badge/reet-4c4c4c?style=for-the-badge&logo=deno&logoColor=fff)](https://github.com/zerexei)
 [![HTML Project](https://img.shields.io/badge/seo_template-4c4c4c?style=for-the-badge&logo=html5&logoColor=fff)](https://github.com/zerexei/seo-template)
