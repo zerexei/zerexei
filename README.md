@@ -5,7 +5,7 @@ I am an aspiring web developer 💻 from philippines 🇵🇭 who loves back-end
 <p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&icon_color=fec615&text_color=f1f1f1f1&bg_color=4c4c4c&title_color=fec615&hide_title=true&hide_border=true)
-
+<!---
 ## Projects
 [![PHP Project](https://img.shields.io/badge/php_core-4c4c4c?style=for-the-badge&logo=php&logoColor=fff)](https://github.com/zerexei/php-core)
 [![PHP Project](https://img.shields.io/badge/php_router-4c4c4c?style=for-the-badge&logo=php&logoColor=fff)](https://github.com/zerexei/php-simple-router)
@@ -25,7 +25,7 @@ I am an aspiring web developer 💻 from philippines 🇵🇭 who loves back-end
 [![HTML Project](https://img.shields.io/badge/seo_template-4c4c4c?style=for-the-badge&logo=html5&logoColor=fff)](https://github.com/zerexei/seo-template)
 [![CSS Project](https://img.shields.io/badge/3_page_site-4c4c4c?style=for-the-badge&logo=css3&logoColor=fff)](https://github.com/zerexei/reet-css)
 [![Tailwind Project](https://img.shields.io/badge/tailwind_components-4c4c4c?style=for-the-badge&logo=tailwind-css&logoColor=fff)](https://github.com/zerexei/tailwindcss-components/)
-  
+--->  
 
 ## Connect with Me
 [![Gmail](https://img.shields.io/badge/gmail-4c4c4c?style=flat&logo=gmail&logoColor=white)](https://mail.google.com?tf=cm&to=angeloarcillas64@gmail.com)
