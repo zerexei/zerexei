@@ -1,7 +1,7 @@
 # Hello there 👋:octocat:
 
 <p align="center">
-I am an aspiring web developer 💻 from philippines 🇵🇭 who loves back-end development 💪, I always prioritize best practices and security to ensure that I can produce a high quality and secure codebase for problem solutions 🥰. I enjoy watching anime, playing pc games and PROGRAMMING 😄
+I am an aspiring web developer 💻 from philippines 🇵🇭 who loves back-end development 💪, I always prioritize in best practices and security to ensure that I can produce a high quality and secure codebase for problem solutions 🥰. I enjoy watching anime, playing pc games and PROGRAMMING 😄
 <p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&icon_color=fec615&text_color=f1f1f1f1&bg_color=4c4c4c&title_color=fec615&hide_title=true&hide_border=true)
