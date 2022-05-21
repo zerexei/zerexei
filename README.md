@@ -5,6 +5,7 @@ I am an aspiring web developer 💻 from philippines 🇵🇭 who loves back-end
 <p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&icon_color=fec615&text_color=f1f1f1f1&bg_color=4c4c4c&title_color=fec615&hide_title=true&hide_border=true)
+  
 <!---
 ## Projects
 [![PHP Project](https://img.shields.io/badge/php_core-4c4c4c?style=for-the-badge&logo=php&logoColor=fff)](https://github.com/zerexei/php-core)
@@ -29,7 +30,7 @@ I am an aspiring web developer 💻 from philippines 🇵🇭 who loves back-end
 
 ## Connect with Me
 [![Gmail](https://img.shields.io/badge/gmail-4c4c4c?style=flat&logo=gmail&logoColor=white)](https://mail.google.com?tf=cm&to=angeloarcillas64@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-4c4c4c?style=flat&logo=linkedin&logoColor=white)](https://github.com/zerexei)
+[![LinkedIn](https://img.shields.io/badge/linkedin-4c4c4c?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeloarcillas/)
 [![Discord](https://img.shields.io/badge/discord-4c4c4c?style=flat&logo=discord&logoColor=white)](https://discord.com/users/743835873287733249)
 [![Github](https://img.shields.io/badge/github-4c4c4c?style=flat&logo=github&logoColor=white)](https://github.com/zerexei)
 [![Notion](https://img.shields.io/badge/notion-4c4c4c?style=flat&logo=notion&logoColor=white)](www.notion.so/zerexei)
