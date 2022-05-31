@@ -2,6 +2,7 @@
 
 <!-- ![Metrics](https://metrics.lecoq.io/zerexei?template=classic&languages=1&introduction=1&base.indepth=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FTaipei) -->
   
+ I am an Aspiring Web Developer 💻 from philippines 🇵🇭 who loves back-end development 💪.
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&icon_color=fec615&text_color=f1f1f1f1&bg_color=4c4c4c&title_color=fec615&hide_title=true&hide_border=true)
 
