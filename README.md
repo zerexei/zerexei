@@ -6,6 +6,7 @@
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&icon_color=fec615&text_color=f1f1f1f1&bg_color=4c4c4c&title_color=fec615&hide_title=true&hide_border=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerexei&layout=compact&bg_color=4c4c4c&title_color=fec615&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ## Projects
