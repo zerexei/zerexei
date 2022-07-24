@@ -4,23 +4,10 @@
   
  I am an Aspiring Web Developer 💻 from philippines :philippines: who loves back-end development 💪.
  
- <div style="display:flex;">
- 
- <div style="display: inline-block; width: 50%">
-  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&icon_color=fec615&text_color=f1f1f1f1&bg_color=4c4c4c&title_color=fec615&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-   
-</div>
-  
- <div style="display: inline-block; width: 50%">
-   
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerexei&layout=compact&bg_color=4c4c4c&title_color=fec615&text_color=fff&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-  
-</div>
-  
-</div>
 <a href="https://app.daily.dev/zerexei">
   <img src="https://api.daily.dev/devcards/563f335bff2443e5be44fe6292f1fc0c.png?r=ozw" width="300" alt="Angelo Arcillas's Dev Card"/>
 </a>
