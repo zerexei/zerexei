@@ -8,30 +8,8 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img 
-       align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&icon_color=fec615&text_color=f1f1f1f1&bg_color=4c4c4c&title_color=fec615&hide_title=true&hide_border=true" 
-       alt="github stats"
- />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&icon_color=fec615&text_color=f1f1f1f1&bg_color=4c4c4c&title_color=fec615&hide_title=true&hide_border=true"  width="500" alt="github" />
 </a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img 
-       align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerexei&layout=compact&bg_color=4c4c4c&title_color=fec615&text_color=fff&langs_count=20" 
-       alt="top language"
-  />
-</a>
-  
-<p>
-<a href="https://app.daily.dev/zerexei">
-  <img 
-       src="https://api.daily.dev/devcards/563f335bff2443e5be44fe6292f1fc0c.png?r=ozw" 
-       width="300" 
-       alt="Angelo Arcillas's Dev Card"
-  />
-</a>
-</p>
 
 ## Connect with Me
 
@@ -44,3 +22,16 @@
 [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-4c4c4c?style=flat&logo=stack-overflow&logoColor=white)](https://stackexchange.com/users/21726141/zerexei)
 [![CodeWars](https://img.shields.io/badge/codewars-4c4c4c?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/angeloarcillas64)
 
+
+<!--
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img 
+       align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerexei&layout=compact&bg_color=4c4c4c&title_color=fec615&text_color=fff&langs_count=20" 
+       width="300"
+       alt="top language"
+  />
+</a>
+
+-->
