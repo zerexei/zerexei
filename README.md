@@ -8,7 +8,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&icon_color=fec615&text_color=f1f1f1f1&bg_color=4c4c4c&title_color=fec615&hide_title=true&hide_border=true"  width="500" alt="github" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=zerexei&theme=radical&hide_title=true&hide_border=true"  width="500" alt="github" />
 </a>
 
 ## Connect with Me
