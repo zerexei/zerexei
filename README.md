@@ -23,14 +23,15 @@
   />
 </a>
   
-<a href="https://app.daily.dev/zerexei" style="display: block;">
+<p>
+<a href="https://app.daily.dev/zerexei">
   <img 
        src="https://api.daily.dev/devcards/563f335bff2443e5be44fe6292f1fc0c.png?r=ozw" 
        width="300" 
        alt="Angelo Arcillas's Dev Card"
   />
 </a>
-
+</p>
 
 ## Connect with Me
 
