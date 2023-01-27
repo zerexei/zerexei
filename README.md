@@ -21,6 +21,7 @@
 [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-4c4c4c?style=flat&logo=stack-overflow&logoColor=white)](https://stackexchange.com/users/21726141/zerexei)
 [![CodeWars](https://img.shields.io/badge/codewars-4c4c4c?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/angeloarcillas64)
 
+[Youtube](https://www.youtube.com/@daaaave)
 
 <!--
 
