@@ -16,12 +16,8 @@
 [![Gmail](https://img.shields.io/badge/gmail-4c4c4c?style=flat&logo=gmail&logoColor=white)](https://mail.google.com?tf=cm&to=angeloarcillas64@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-4c4c4c?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeloarcillas/)
 [![Discord](https://img.shields.io/badge/discord-4c4c4c?style=flat&logo=discord&logoColor=white)](https://discord.com/users/743835873287733249)
-[![Github](https://img.shields.io/badge/github-4c4c4c?style=flat&logo=github&logoColor=white)](https://github.com/zerexei)
-[![Notion](https://img.shields.io/badge/notion-4c4c4c?style=flat&logo=notion&logoColor=white)](https://notion.so/zerexei)
 [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-4c4c4c?style=flat&logo=stack-overflow&logoColor=white)](https://stackexchange.com/users/21726141/zerexei)
 [![CodeWars](https://img.shields.io/badge/codewars-4c4c4c?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/angeloarcillas64)
-
-[Youtube](https://www.youtube.com/@daaaave)
 
 <!--
 
