@@ -1,10 +1,18 @@
 # Hello there 👋:octocat:
 
 I'm a full stack web developer 💻 from the Philippines :philippines:, and I am passionate about back-end development 💪. I believe in staying up-to-date with industry trends and continuously learning to improve my skills. It's great to meet you! 🙇
+
+<br clear="both"/>
  
+ <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&hide_border=true&layout=compactdark&include_all_commits=true&theme=chartreuse-dark&bg_color=00000000">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&hide_border=true&layout=compact&include_all_commits=true&theme=default&bg_color=00000000">
+</picture>
+-->
+
+<picture>
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=zerexei&theme=github-dark&mode=weekly" >
 </picture>
 
 <picture>
