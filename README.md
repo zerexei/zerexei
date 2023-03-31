@@ -1,24 +1,34 @@
 # Hello there 👋:octocat:
 
+[![wakatime](https://wakatime.com/badge/user/e8d307ab-157d-46ae-91b0-d9f64d19cf6a.svg)](https://wakatime.com/@e8d307ab-157d-46ae-91b0-d9f64d19cf6a)
+
 I'm a full stack web developer 💻 from the Philippines :philippines:, and I am passionate about back-end development 💪. I believe in staying up-to-date with industry trends and continuously learning to improve my skills. It's great to meet you! 🙇
 
 <br clear="both"/>
  
- <!--
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&hide_border=true&layout=compactdark&include_all_commits=true&theme=chartreuse-dark&bg_color=00000000">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&hide_border=true&layout=compact&include_all_commits=true&theme=default&bg_color=00000000">
-</picture>
--->
-
-<picture>
-  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=zerexei&theme=github-dark&mode=weekly" >
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=zerexei&theme=github-dark&mode=weekly" alt="my stats" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zerexei&layout=compact&hide_border=true&langs_count=8&theme=chartreuse-dark&bg_color=00000000">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerexei&layout=compact&hide_border=true&langs_count=8&theme=default&bg_color=00000000">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerexei&layout=compact&hide_border=true&langs_count=8&theme=chartreuse-dark" alt="my stats" />
 </picture>
+
+<br clear="both"/>
+
+<br />
+
+<details>
+<summary>My Programming Stats</summary>
+
+<a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zerexei&layout=compact&theme=chartreuse-dark" alt="my stats" />
+</a>
+<a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&hide_border=true&layout=compact&theme=chartreuse-dark" alt="my stats" />
+</a>
+
+</details>
 
 <br clear="both"/>
 
