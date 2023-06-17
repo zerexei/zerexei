@@ -18,6 +18,10 @@ I'm a full stack web developer 💻 from the Philippines :philippines:, and I am
 
 <br />
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/648d307ba73e859a2cb1680f?variant=dark)](https://roadmap.sh)
+
+<br />
+
 <details>
 <summary>My Programming Stats</summary>
 
