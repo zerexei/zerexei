@@ -5,13 +5,20 @@
 I'm a full stack web developer 💻 from the Philippines :philippines:, and I am passionate about back-end development 💪. I believe in staying up-to-date with industry trends and continuously learning to improve my skills. It's great to meet you! 🙇
 
 <br clear="both"/>
+
  
 <picture>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=zerexei&theme=github-dark&mode=weekly" alt="my stats" />
 </picture>
 
+<!--
 <picture>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerexei&layout=compact&hide_border=true&langs_count=8&theme=chartreuse-dark" alt="my stats" />
+</picture>
+-->
+
+<picture>
+    <img align="right" src="https://github.com/zerexei/zerexei/assets/69749146/b5c56e55-f3a8-4e62-a82d-21ee20580da9" alt="BADge" width="250" height="250" />
 </picture>
 
 <br clear="both"/>
