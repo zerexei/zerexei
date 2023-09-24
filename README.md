@@ -18,7 +18,7 @@ I'm a full stack web developer 💻 from the Philippines :philippines:, and I am
 -->
 
 <picture>
-    <img align="right" src="https://github.com/zerexei/zerexei/assets/69749146/b5c56e55-f3a8-4e62-a82d-21ee20580da9" alt="BADge" width="250" height="250" />
+    <img align="right" src="https://github.com/zerexei/zerexei/assets/69749146/b5c56e55-f3a8-4e62-a82d-21ee20580da9" alt="BADge" width="300" height="300" />
 </picture>
 
 <br clear="both"/>
