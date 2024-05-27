@@ -34,6 +34,8 @@ I'm a full stack web developer 💻 from the Philippines :philippines:, and I am
 </a>
  
  [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/648d307ba73e859a2cb1680f?variant=dark)](https://roadmap.sh)
+
+ <a href="https://app.daily.dev/zerexei"><img src="https://api.daily.dev/devcards/v2/sNP6wmPc-.png?r=p1l&type=wide" width="500" alt="Angelo Arcillas's Dev Card"/></a>
  
 <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&hide_border=true&layout=compact&theme=chartreuse-dark" alt="my stats" />
