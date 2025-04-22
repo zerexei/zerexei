@@ -6,40 +6,21 @@ I'm a full stack web developer 💻 from the Philippines :philippines:, and I am
 
 <br clear="both"/>
 
- 
-<picture>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=zerexei&theme=github-dark&mode=weekly" alt="my stats" />
-</picture>
-
-<!--
-<picture>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerexei&layout=compact&hide_border=true&langs_count=8&theme=chartreuse-dark" alt="my stats" />
-</picture>
--->
-
-<picture>
-<!--     <img align="right" src="https://github.com/zerexei/zerexei/assets/69749146/b5c56e55-f3a8-4e62-a82d-21ee20580da9" alt="BADge" width="300" height="300" /> -->
-    <img align="right" src="https://github.com/zerexei/zerexei/assets/69749146/d478dc4d-eb36-4de1-8c70-0a5cc9528940" alt="BADge" width="300" height="300" />
-</picture>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=zerexei&theme=github-dark&mode=weekly" alt="my stats" />
+<img align="right" src="https://github.com/zerexei/zerexei/assets/69749146/d478dc4d-eb36-4de1-8c70-0a5cc9528940" alt="BADge" width="300" height="300" />
 
 <br clear="both"/>
-
-<br />
 
 <details>
 <summary>My Programming Stats</summary>
 
-<a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zerexei&layout=compact&theme=chartreuse-dark" alt="my stats" />
-</a>
- 
- [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/648d307ba73e859a2cb1680f?variant=dark)](https://roadmap.sh)
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=zerexei&layout=compact&theme=chartreuse-dark)](#)
+[![roadmap.sh](https://roadmap.sh/card/tall/648d307ba73e859a2cb1680f?variant=dark&roadmaps=software-architect%2Csystem-design%2Cfull-stack%2Cdatastructures-and-algorithms)](https://roadmap.sh)
+[![stats](https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&hide_border=true&layout=compact&theme=chartreuse-dark)](#)
 
- <a href="https://app.daily.dev/zerexei"><img src="https://api.daily.dev/devcards/v2/sNP6wmPc-.png?r=p1l&type=wide" width="500" alt="Angelo Arcillas's Dev Card"/></a>
- 
-<a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&hide_border=true&layout=compact&theme=chartreuse-dark" alt="my stats" />
-</a>
+<a href="https://app.daily.dev/zerexei"><img src="https://api.daily.dev/devcards/v2/sNP6wmPc-.png?type=default&r=qkt" width="356" alt="Angelo Arcillas's Dev Card"/></a>
+
+</div>
 
 </details>
 
