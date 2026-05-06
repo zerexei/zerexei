@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/e8d307ab-157d-46ae-91b0-d9f64d19cf6a.svg)](https://wakatime.com/@e8d307ab-157d-46ae-91b0-d9f64d19cf6a)
 
-I'm a full stack web developer 💻 from the Philippines :philippines:, and I am passionate about back-end development 💪. I believe in staying up-to-date with industry trends and continuously learning to improve my skills. It's great to meet you! 🙇
+I’m a Backend Software Engineer 💻 from the Philippines :philippines: focused on distributed systems engineering. I work with real-time, event-driven architectures ⚙️ that handle concurrency, failures, and production-scale workloads 🚀. I’m continuously learning how large-scale systems are designed and operated 💪. It’s great to meet you! 🙇
 
 <br clear="both"/>
 
