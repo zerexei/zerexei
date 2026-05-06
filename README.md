@@ -13,7 +13,7 @@ Backend Engineer • Distributed Systems Enthusiast • Occasional debugger of p
 I build backend systems that try their best to stay alive under pressure.
 
 I work with:
-- real-time, event-driven systems ⚙️  
+- real-time & async backend systems ⚙️  
 - concurrency (a.k.a. controlled chaos)  
 - failures (because they always happen)  
 - production-scale workloads 🚀
