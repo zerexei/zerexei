@@ -1,35 +1,55 @@
-# Hello there 👋:octocat:
+# Hey there 👋 I'm Angelo 🇵🇭
 
-[![wakatime](https://wakatime.com/badge/user/e8d307ab-157d-46ae-91b0-d9f64d19cf6a.svg)](https://wakatime.com/@e8d307ab-157d-46ae-91b0-d9f64d19cf6a)
+Backend Engineer • Distributed Systems Enthusiast • Occasional debugger of production fires 🔥
 
-I’m a Backend Software Engineer 💻 from the Philippines :philippines: focused on distributed systems engineering. I work with real-time, event-driven architectures ⚙️ that handle concurrency, failures, and production-scale workloads 🚀. I’m continuously learning how large-scale systems are designed and operated 💪. It’s great to meet you! 🙇
+[![WakaTime](https://wakatime.com/badge/user/e8d307ab-157d-46ae-91b0-d9f64d19cf6a.svg)](https://wakatime.com/@e8d307ab-157d-46ae-91b0-d9f64d19cf6a)
 
-<br clear="both"/>
+---
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=zerexei&theme=github-dark&mode=weekly" alt="my stats" />
-<img align="right" src="https://github.com/zerexei/zerexei/assets/69749146/d478dc4d-eb36-4de1-8c70-0a5cc9528940" alt="BADge" width="300" height="300" />
+<img align="right" src="https://github.com/zerexei/zerexei/assets/69749146/d478dc4d-eb36-4de1-8c70-0a5cc9528940" alt="Badge of Honor" width="300" height="300" />
 
-<br clear="both"/>
+## 🧠 What I do
 
-<details>
-<summary>My Programming Stats</summary>
+I build backend systems that try their best to stay alive under pressure.
 
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=zerexei&layout=compact&theme=chartreuse-dark)](#)
-[![roadmap.sh](https://roadmap.sh/card/tall/648d307ba73e859a2cb1680f?variant=dark&roadmaps=software-architect%2Csystem-design%2Cfull-stack%2Cdatastructures-and-algorithms)](https://roadmap.sh)
-[![stats](https://github-readme-stats.vercel.app/api?username=zerexei&show_icons=true&hide_border=true&layout=compact&theme=chartreuse-dark)](#)
+I work with:
+- real-time, event-driven systems ⚙️  
+- concurrency (a.k.a. controlled chaos)  
+- failures (because they always happen)  
+- production-scale workloads 🚀
 
-<a href="https://app.daily.dev/zerexei"><img src="https://api.daily.dev/devcards/v2/sNP6wmPc-.png?type=default&r=qkt" width="356" alt="Angelo Arcillas's Dev Card"/></a>
+Currently growing into distributed systems engineering while figuring out how systems behave when everything breaks at once 😄
 
-</div>
+---
 
-</details>
+## 🧩 What I care about
 
-<br clear="both"/>
+Distributed systems · System design · Scalability · Reliability · Clean architecture (when possible)
 
-### 💬 Connect with Me
+---
 
-[![Gmail](https://img.shields.io/badge/gmail-4c4c4c?style=flat&logo=gmail&logoColor=white)](https://mail.google.com?tf=cm&to=angeloarcillas64@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-4c4c4c?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeloarcillas/)
-[![Discord](https://img.shields.io/badge/discord-4c4c4c?style=flat&logo=discord&logoColor=white)](https://discord.com/users/743835873287733249)
-[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-4c4c4c?style=flat&logo=stack-overflow&logoColor=white)](https://stackexchange.com/users/21726141/zerexei)
-[![CodeWars](https://img.shields.io/badge/codewars-4c4c4c?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/angeloarcillas64)
+## 📊 Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zerexei&theme=github-dark&mode=weekly" />
+</p>
+
+---
+
+## 💬 Let’s connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/angeloarcillas
+- 🐙 GitHub: https://github.com/zerexei
+- 📧 Email: angeloarcillas64@gmail.com
+
+---
+
+## ☕ Support Me
+
+- https://ko-fi.com/angelothedevexplorer  
+- https://paypal.me/zerexei
+
+### Thank You
+Thanks for visiting! Feel free to reach out if you want to talk about tech, systems, or anything interesting.
+
+It’s great to meet you 👋
