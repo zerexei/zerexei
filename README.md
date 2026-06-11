@@ -13,7 +13,7 @@ Backend Engineer • Distributed Systems Enthusiast • Occasional debugger of p
 I build backend systems that try their best to stay alive under pressure.
 
 I work with:
-- real-time & event-driven systems systems ⚙️  
+- real-time & event-driven systems ⚙️  
 - concurrency (a.k.a. controlled chaos)  
 - failures (because they always happen)  
 - production-scale workloads 🚀
@@ -39,6 +39,7 @@ Distributed systems · System design · Scalability · Reliability · Clean arch
 ## 💬 Let’s connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/angeloarcillas
+- 🌐 Website: https://angeloarcillas.pages.dev
 - 🐙 GitHub: https://github.com/zerexei
 - 📧 Email: angeloarcillas64@gmail.com
 
