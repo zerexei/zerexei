@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Angelo 🇵🇭
 
-Backend Engineer • Distributed Systems Enthusiast • Occasional debugger of production fires 🔥
+Product-Focused Backend Engineer • SaaS Development • Real-Time & Event-Driven Systems • Occasional debugger of production fires 🔥
 
 [![WakaTime](https://wakatime.com/badge/user/e8d307ab-157d-46ae-91b0-d9f64d19cf6a.svg)](https://wakatime.com/@e8d307ab-157d-46ae-91b0-d9f64d19cf6a)
 
@@ -10,21 +10,22 @@ Backend Engineer • Distributed Systems Enthusiast • Occasional debugger of p
 
 ## 🧠 What I do
 
-I build backend systems that try their best to stay alive under pressure.
+I build backend systems that power SaaS products — especially features that need to stay reliable under real-world usage.
 
-I work with:
-- real-time & event-driven systems ⚙️  
-- concurrency (a.k.a. controlled chaos)  
-- failures (because they always happen)  
-- production-scale workloads 🚀
+My focus is on:
+- SaaS backend development (APIs, product features, integrations)
+- real-time systems (WebSockets, messaging, live updates)
+- async processing & background workflows
+- handling concurrency and data consistency in production systems
+- building systems that break gracefully instead of catastrophically
 
-Currently growing into distributed systems engineering while figuring out how systems behave when everything breaks at once 😄
+I care less about “perfect architecture” and more about systems that **work reliably in production when things get messy**.
 
 ---
 
 ## 🧩 What I care about
 
-Distributed systems · System design · Scalability · Reliability · Clean architecture (when possible)
+Product engineering · System Design · Scalability · Reliability · Clean architecture (when possible)
 
 ---
 
@@ -48,7 +49,9 @@ Distributed systems · System design · Scalability · Reliability · Clean arch
 ## ☕ Support Me
 
 - https://ko-fi.com/angelothedevexplorer  
-- https://paypal.me/zerexei
+- https://paypal.me/zerexei  
+
+---
 
 ### Thank You
 Thanks for visiting! Feel free to reach out if you want to talk about tech, systems, or anything interesting.
