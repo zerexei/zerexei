@@ -30,10 +30,15 @@ Product engineering · System Design · Scalability · Reliability · Clean arch
 ---
 
 ## 📊 Stats
+![https://github-readme-streak-stats.herokuapp.com?user=zerexei&theme=github-dark&mode=weekly](https://github-readme-streak-stats.herokuapp.com?user=zerexei&theme=github-dark&mode=weekly)
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zerexei&theme=github-dark&mode=weekly" />
-</p>
+<details>
+<summary>My Programming Stats</summary>
+
+<a href="https://wakatime.com/@zerexei"><img src="https://github-stats-extended.vercel.app/api/wakatime?username=zerexei&layout=compact&theme=chartreuse-dark" width="500" alt="https://wakatime.com/@zerexei"/></a>
+<a href="https://app.daily.dev/zerexei"><img src="https://api.daily.dev/devcards/v2/sNP6wmPc-.png?r=p1l&type=wide" width="500" alt="https://app.daily.dev/zerexei"/></a>
+
+</details>
 
 ---
 
