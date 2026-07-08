@@ -1,6 +1,7 @@
 # Hey there 👋 I'm Angelo 🇵🇭
 
-Product-Focused Backend Engineer • SaaS Development • Real-Time & Event-Driven Systems • Occasional debugger of production fires 🔥
+**Product-Focused Backend Engineer** • SaaS Development • Real-Time & Event-Driven Systems  
+*Occasional debugger of production fires 🔥*
 
 [![WakaTime](https://wakatime.com/badge/user/e8d307ab-157d-46ae-91b0-d9f64d19cf6a.svg)](https://wakatime.com/@e8d307ab-157d-46ae-91b0-d9f64d19cf6a)
 
@@ -13,11 +14,11 @@ Product-Focused Backend Engineer • SaaS Development • Real-Time & Event-Driv
 I build backend systems that power SaaS products — especially features that need to stay reliable under real-world usage.
 
 My focus is on:
-- SaaS backend development (APIs, product features, integrations)
-- real-time systems (WebSockets, messaging, live updates)
-- async processing & background workflows
-- handling concurrency and data consistency in production systems
-- building systems that break gracefully instead of catastrophically
+- 🚀 SaaS platform development (APIs, multi-tenant databases, integrations)
+- ⚙️ resilient API & webhook connectors (retries, signature verification)
+- ⚡ real-time & event-driven systems (WebSockets, async queues)
+- 📊 telemetry & auditing systems (log deduplication, SLA compliance)
+- 🛡️ Resilient architectures (lease locks, checkpoint recovery, DLQs)
 
 I care less about “perfect architecture” and more about systems that **work reliably in production when things get messy**.
 
