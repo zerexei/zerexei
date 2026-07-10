@@ -1,4 +1,4 @@
-# Hey there 👋 I'm Angelo 🇵🇭
+# <samp>**> Hi there 👋, I'm Angelo 🇵🇭** </samp>
 
 **Product-Focused Backend Engineer** • SaaS Development • Real-Time & Event-Driven Systems  
 *Occasional debugger of production fires 🔥*
