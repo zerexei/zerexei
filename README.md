@@ -1,6 +1,6 @@
 # <samp>**> Hi there 👋, I'm Angelo 🇵🇭** </samp>
 
-**Product-Focused Backend Engineer** • SaaS Development • Real-Time & Event-Driven Systems  
+**Product-Minded Backend Engineer** • SaaS Development • Real-Time & Event-Driven Systems  
 *Occasional debugger of production fires 🔥*
 
 [![WakaTime](https://wakatime.com/badge/user/e8d307ab-157d-46ae-91b0-d9f64d19cf6a.svg)](https://wakatime.com/@e8d307ab-157d-46ae-91b0-d9f64d19cf6a)
