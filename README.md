@@ -1,6 +1,6 @@
 # <samp>**> Hi there 👋, I'm Angelo 🇵🇭** </samp>
 
-**Product-Minded Backend Engineer** • SaaS Development • Real-Time & Event-Driven Systems  
+**Product-minded Backend Engineer** • SaaS Development • Real-Time & Event-Driven Systems  
 *Occasional debugger of production fires 🔥*
 
 **I NEED A FKN JOB**
